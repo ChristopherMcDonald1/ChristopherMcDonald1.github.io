@@ -1,0 +1,29 @@
+nav {
+	font-size: 25px;
+	border: 3px solid #155555;
+	border-radius: 15px;
+	background-image: linear-gradient(#484747, #4C4C4B, #000000); 
+	margin: 25px;
+}
+
+
+
+li {
+	justify-content: flex-end;
+}
+
+
+
+
+body {
+	background-image: url("https://images.pexels.com/photos/268415/pexels-photo-268415.jpeg?auto=compress&cs=tinysrgb&h=350");
+	background-size: 8%;
+}
+
+img {
+	width: 250px;
+	height: auto;
+	padding-right: 15px;
+	padding-left: 5px;	
+
+}
